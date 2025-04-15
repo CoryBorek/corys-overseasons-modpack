@@ -1,0 +1,6 @@
+{
+  "idle": {
+    "timeout": 120,
+    "condition": "on_battery"
+  }
+}
